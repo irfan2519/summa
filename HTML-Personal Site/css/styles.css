@@ -1,0 +1,44 @@
+  body
+  {
+    background-color: #BFA2DB;
+  }
+  hr
+  {
+    border-style: none;
+    border-color: white;
+    border-top-style: dotted;
+    border-width: 3px;
+    width: 5%
+  }
+h1
+{
+    font-style: italic;
+    font-size: 60px;
+    color: black;
+}
+h3
+{
+  font-size: 30px;
+  text-decoration: underline;
+  color: black;
+  font-style: oblique;
+}
+img
+{
+   background-color: black;
+}
+p
+{
+  font-size: 30px;
+}
+li
+{
+  font-size: 20px;
+}
+label{
+  font-size: 20px;
+}
+.telephone:hover{
+  background-color:blue;
+
+}
